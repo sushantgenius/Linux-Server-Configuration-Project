@@ -12,7 +12,7 @@ However I recommend DigitalOcean
 - For this project I have installed the GIT Bash to access the remote machine
 - You can also use Vagrant and Virtualbox setup to access your remote server ON lightsail
 
--You can visit 13.232.238.49 or http://http://2dd1763c602c62b6708517937492a65f-2102374274.ap-south-1.elb.amazonaws.com/ for the website deployed.
+-You can visit http://13.232.238.49/ or for the website deployed.
 - You can also setup your own DNS server using popular host provider
 - PLEASE NOTE:- To get http:// or https:// certification you need to create Load-Balancing in the Networking section of the lightsail Instance
 
